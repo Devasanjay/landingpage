@@ -1,2 +1,2 @@
 # landingpage
-https://sunnyside-landing-webpage.netlify.app
+https://simple-landing-website.netlify.app
